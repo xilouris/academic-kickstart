@@ -9,7 +9,7 @@
 baseurl = "https://xilouris.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "George Xilouris Personal Site"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,26 +52,26 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "George Xilouris"
+  role = "Research Fellow" 
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "NCSR Demokritos" , url = "http://demokritos.gr" } ]
 
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "xilouris@iit.demokritos.gr"
+  address = "Institute of Informatics and Telcommunications, Room 11.1.6.3, NCSR Demokritos, Aghia Paraskevi, Attiki, 15310, Greece"
   office_hours = """
   Monday 10:00 to 13:00\\
   Wednesday 09:00 to 10:00\\
   Otherwise email to book an appointment
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = "+30 210 65 03 108"
+  skype = "gxilouris"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -107,7 +107,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "dark"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -122,7 +122,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "xilouris"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -174,7 +174,7 @@ enableGitInfo = false
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
   highlight = true
   highlight_languages = []
-  # highlight_style = "github"
+  highlight_style = "github"
 
   # Enable native social sharing buttons?
   sharing = true
