@@ -59,15 +59,16 @@ enableGitInfo = false
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "NCSR Demokritos" , url = "http://demokritos.gr" } ]
 
-  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  # avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "my_face.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "xilouris@iit.demokritos.gr"
   address = "Institute of Informatics and Telcommunications, Room 11.1.6.3, NCSR Demokritos, Aghia Paraskevi, Attiki, 15310, Greece"
   office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
+  Monday 10:00 to 13:00<br>
+  Wednesday 09:00 to 10:00<br>
   Otherwise email to book an appointment
   """
   phone = "+30 210 65 03 108"
