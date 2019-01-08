@@ -60,8 +60,8 @@ enableGitInfo = false
   organizations = [ { name = "NCSR Demokritos" , url = "http://demokritos.gr" } ]
 
   gravatar = true  # get your avatar from Gravatar.com? (true/false)
-  # avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  avatar = "my_face.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  #avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  #avatar = "my_face.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "xilouris@iit.demokritos.gr"
